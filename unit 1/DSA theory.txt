@@ -1,0 +1,18 @@
+LINKED LIST:
+list made up of nodes whose memory locations are not continuous or in any sequential order
+-> nodes = consists of 2 parts 
+		1. data - contains the information
+		2. link - contains address of next node of list
+			last node always contains NULL in the link as it points to nothing 
+			pointer that points to address of first node = head...to access first node of the list and traverse to other nodes by link
+1.singly linked list: forward navigation only
+2.doubly linked list: forward and backward navigation possible
+3.circular linked list: last element linked back to the first element
+
+self referential structure - structure containing a pointer that points to the structure itself
+node = a structure which contains 2 different data types in it...a int data and a pointer
+
+
+ 
+
+
